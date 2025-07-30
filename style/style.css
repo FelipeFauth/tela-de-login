@@ -7,3 +7,32 @@
     margin: 0px;
     box-sizing: border-box;
 }
+
+body, html {
+    background-color: blue;
+}
+
+main {
+    background: url(../imagens/fundo.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+#login {
+    background-color: antiquewhite;
+    width: 50vw;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+    
+
+
+
+img {
+    width: 100px;
+}
